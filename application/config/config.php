@@ -27,7 +27,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 //$config['base_url'] = 'http://'.$_SERVER['SERVER_ADDR'].':'.$_SERVER['SERVER_PORT'].'/erp-ci/';
 $config['base_url'] = 'https://aplikasi-masjid.com/arrayyan';
-$config['wb_server_path'] = '/';
+$config['wb_server_path'] = '/home/u1363293/public_html/arrayyan';
 //$config['base_url'] = '';
 //'http://192.168.233.77:12000/hcis/';//'http://hcis.wika-beton.net/hcis/';
 
