@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2018/01/24" author="e.World Technology Ltd.">
+  <project id="{8F16C616-6AD2-4381-B7F6-A784BA58350F}" file="C:\myProject\hcis\hcis-notifikasi\notifikasi.pmp" name="notifikasi" product="PHPMaker" version="14.0" datetime="2018/01/24 18:16:05" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="ciri_ciri_jasmani" name="ciri_ciri_jasmani" caption="ciri ciri jasmani" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="hst_kerja" name="hst_kerja" caption="hst kerja" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="log" name="log" caption="log" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="m_users" name="m_users" caption="m users" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="pendidikan" name="pendidikan" caption="pendidikan" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="personal" name="personal" caption="personal" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="referensi" name="referensi" caption="referensi" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="relasi" name="relasi" caption="relasi" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rwy_bidang_keahlian" name="rwy_bidang_keahlian" caption="rwy bidang keahlian" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rwy_jabatan" name="rwy_jabatan" caption="rwy jabatan" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rwy_keluarga" name="rwy_keluarga" caption="rwy keluarga" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rwy_pendidikan" name="rwy_pendidikan" caption="rwy pendidikan" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rwy_penguasaan_bahasa" name="rwy_penguasaan_bahasa" caption="rwy penguasaan bahasa" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rwy_persediaan_saham_pegawai" name="rwy_persediaan_saham_pegawai" caption="rwy persediaan saham pegawai" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rwy_tempat_tinggal" name="rwy_tempat_tinggal" caption="rwy tempat tinggal" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="st_latih" name="st_latih" caption="st latih" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_bank" name="tb_bank" caption="tb bank" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_gas" name="tb_gas" caption="tb gas" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_jbt" name="tb_jbt" caption="tb jbt" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_jenjang" name="tb_jenjang" caption="tb jenjang" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_jurusan" name="tb_jurusan" caption="tb jurusan" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_latih" name="tb_latih" caption="tb latih" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_lmbg" name="tb_lmbg" caption="tb lmbg" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_pat" name="tb_pat" caption="tb pat" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="unit_kerja" name="unit_kerja" caption="unit kerja" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="unit_organisasi" name="unit_organisasi" caption="unit organisasi" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="users" name="users" caption="users" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_notifikasi" name="tb_notifikasi" caption="Notifikasi" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="v_personal" name="v_personal" caption="v personal" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_notifikasi_d" name="tb_notifikasi_d" caption="Penerima" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="v_referensi" name="v_referensi" caption="v referensi" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="v_tb_pat" name="v_tb_pat" caption="v tb pat" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="v_inbox_notif" name="v_inbox_notif" caption="Notifikasi" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="m_users1" name="m_users1" caption="m users 1" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tb_slide" name="tb_slide" caption="tb slide" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>

@@ -1,0 +1,1 @@
+(function(i){i("[data-table=tb_notifikasi][data-field=x_filter_penerima]").on({change:function(t){i(".tbl_tb_notifikasi_dgrid").hide()}})})(jQuery);

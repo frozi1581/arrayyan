@@ -1,0 +1,38 @@
+#lookupbox-search-key {
+	width:80%;
+        font-size:80%;
+}
+
+.lookupbox-result{
+	width: 100%;
+     font-size:80%;
+}
+
+.lookupbox-result-header {
+	background-color: #aaa;
+        font-size:80%;
+
+}
+
+.lookupbox-result-row.odd {
+	background-color: #eee;
+        font-size:80%;
+
+}
+
+.lookupbox-result-row.even {
+	background-color: #ddd;
+        font-size:80%;
+}
+
+#lookupbox-search-result {
+	margin-top: 10px;
+	height: 400px;
+	overflow: auto;
+        font-size:90%;    
+}
+
+tr.lookupbox-result-row:hover {
+	background-color: #dff;
+        font-size:80%;
+}

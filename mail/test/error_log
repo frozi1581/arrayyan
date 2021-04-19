@@ -1,0 +1,7 @@
+[12-Dec-2016 07:04:30 UTC] PHP Warning:  require_once(vendor/autoload.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/hilanpro/public_html/msf/test/bootstrap.php on line 2
+[12-Dec-2016 07:04:30 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/hilanpro/public_html/msf/test/bootstrap.php on line 2
+[12-Dec-2016 07:06:40 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/hilanpro/public_html/msf/test/phpmailerTest.php on line 23
+[12-Dec-2016 07:06:45 UTC] PHP Warning:  strstr() expects parameter 1 to be string, array given in /home/hilanpro/public_html/msf/test/test_callback.php on line 65
+[12-Dec-2016 07:06:45 UTC] PHP Notice:  Undefined offset: 0 in /home/hilanpro/public_html/msf/test/test_callback.php on line 28
+[12-Dec-2016 07:06:45 UTC] PHP Notice:  Undefined offset: 0 in /home/hilanpro/public_html/msf/test/test_callback.php on line 29
+[12-Dec-2016 07:09:36 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/hilanpro/public_html/msf/test/phpmailerLangTest.php on line 23

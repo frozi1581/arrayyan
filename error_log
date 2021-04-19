@@ -1,0 +1,32 @@
+[11-Dec-2016 06:57:23 UTC] PHP Fatal error:  Call to a member function data() on a non-object in /home/hilanpro/public_html/nc_web/application/controllers/Admin.php on line 317
+[11-Dec-2016 07:50:02 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/hilanpro/public_html/nc_web/application/controllers/Admin.php on line 307
+[11-Dec-2016 08:37:17 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/hilanpro/public_html/nc_web/application/views/admin/faqManagement.php on line 44
+[11-Dec-2016 08:37:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/hilanpro/public_html/nc_web/application/views/admin/faqManagement.php on line 44
+[11-Dec-2016 08:38:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/hilanpro/public_html/nc_web/application/views/admin/faqManagement.php on line 44
+[11-Dec-2016 08:40:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/hilanpro/public_html/nc_web/application/views/admin/faqManagement.php on line 46
+[11-Dec-2016 08:40:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/hilanpro/public_html/nc_web/application/views/admin/faqManagement.php on line 46
+[16-Dec-2016 00:12:35 UTC] PHP Notice:  Undefined index: name in /home/hilanpro/public_html/nc_web/co.php on line 4
+[16-Dec-2016 00:12:35 UTC] PHP Notice:  Undefined index: email in /home/hilanpro/public_html/nc_web/co.php on line 5
+[16-Dec-2016 00:12:36 UTC] PHP Notice:  Undefined index: subject in /home/hilanpro/public_html/nc_web/co.php on line 6
+[16-Dec-2016 00:12:36 UTC] PHP Notice:  Undefined index: message in /home/hilanpro/public_html/nc_web/co.php on line 7
+[16-Dec-2016 00:12:36 UTC] PHP Warning:  require(PHPMailerAutoload.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/hilanpro/public_html/nc_web/co.php on line 11
+[16-Dec-2016 00:12:36 UTC] PHP Warning:  require(PHPMailerAutoload.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/hilanpro/public_html/nc_web/co.php on line 11
+[16-Dec-2016 00:12:36 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'PHPMailerAutoload.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/hilanpro/public_html/nc_web/co.php on line 11
+[16-Dec-2016 00:26:38 UTC] PHP Fatal error:  Function name must be a string in /home/hilanpro/public_html/nc_web/application/views/admin/ourSkillManagement.php on line 32
+[16-Dec-2016 03:50:46 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/hilanpro/public_html/nc_web/application/controllers/Home.php on line 81
+[16-Dec-2016 03:54:49 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/hilanpro/public_html/nc_web/application/controllers/Home.php on line 81
+[06-Jan-2017 08:03:13 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hilanpro/public_html/nc_web/application/controllers/Home.php on line 83
+[08-Jan-2017 14:30:21 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/hilanpro/public_html/nc_web/application/views/home/main.php on line 59
+[08-Jan-2017 14:33:34 UTC] PHP Parse error:  syntax error, unexpected T_ENDFOR in /home/hilanpro/public_html/nc_web/application/views/home/main.php on line 69
+[12-Jan-2017 16:18:01 UTC] PHP Fatal error:  Call to undefined function limit() in /home/hilanpro/public_html/nc_web/application/controllers/Home.php on line 38
+[12-Jan-2017 17:09:25 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hilanpro/public_html/nc_web/application/controllers/Admin.php on line 315
+[12-Jan-2017 17:09:48 UTC] PHP Fatal error:  Call to undefined function display_ckeditor() in /home/hilanpro/public_html/nc_web/application/views/admin/ourProductsManagement.php on line 64
+[12-Jan-2017 17:10:48 UTC] PHP Fatal error:  Call to undefined function display_ckeditor() in /home/hilanpro/public_html/nc_web/application/views/admin/ourProductsManagement.php on line 64
+[12-Jan-2017 17:12:58 UTC] PHP Fatal error:  Call to undefined function display_ckeditor() in /home/hilanpro/public_html/nc_web/application/views/admin/ourProductsManagement.php on line 64
+[12-Jan-2017 17:14:58 UTC] PHP Fatal error:  Call to undefined function display_ckeditor() in /home/hilanpro/public_html/nc_web/application/views/admin/ourProductsManagement.php on line 64
+[12-Jan-2017 17:15:19 UTC] PHP Fatal error:  Call to undefined function display_ckeditor() in /home/hilanpro/public_html/nc_web/application/views/admin/ourProductsManagement.php on line 64
+[12-Jan-2017 17:34:04 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/hilanpro/public_html/nc_web/application/controllers/Admin.php on line 683
+[12-Jan-2017 17:34:36 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/hilanpro/public_html/nc_web/application/controllers/Admin.php on line 683
+[12-Jan-2017 17:34:52 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/hilanpro/public_html/nc_web/application/controllers/Admin.php on line 683
+[13-Jan-2017 00:13:37 UTC] PHP Fatal error:  Call to undefined function display_ckeditor() in /home/hilanpro/public_html/nc_web/application/views/admin/newsManagement.php on line 50
+[13-Jan-2017 07:51:02 UTC] PHP Fatal error:  Call to undefined function display_ckeditor() in /home/hilanpro/public_html/nc_web/application/views/admin/newsManagement.php on line 50
