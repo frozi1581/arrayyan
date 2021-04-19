@@ -26,8 +26,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
 //$config['base_url'] = 'http://'.$_SERVER['SERVER_ADDR'].':'.$_SERVER['SERVER_PORT'].'/erp-ci/';
-$config['base_url'] = 'https://kkms.wika-beton.net';
-$config['wb_server_path'] = '/wwwroot/php5rozi/kkms/';
+$config['base_url'] = 'https://arrayyan.aplikasi-masjid.com/';
+$config['wb_server_path'] = '/';
 //$config['base_url'] = '';
 //'http://192.168.233.77:12000/hcis/';//'http://hcis.wika-beton.net/hcis/';
 
